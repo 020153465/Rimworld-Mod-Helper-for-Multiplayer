@@ -1,0 +1,10 @@
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\bin\Debug\Rimworld Mods Helper.exe.config
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\bin\Debug\Rimworld Mods Helper.exe
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\bin\Debug\Rimworld Mods Helper.pdb
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\obj\Debug\Rimworld Mods Helper.csprojAssemblyReference.cache
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\obj\Debug\Rimworld_Mods_Helper.Main_menu.resources
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\obj\Debug\Rimworld_Mods_Helper.Properties.Resources.resources
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\obj\Debug\Rimworld Mods Helper.csproj.GenerateResource.cache
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\obj\Debug\Rimworld Mods Helper.csproj.CoreCompileInputs.cache
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\obj\Debug\Rimworld Mods Helper.exe
+C:\Users\Saito8546\source\repos\Rimworld Mods Helper\obj\Debug\Rimworld Mods Helper.pdb
